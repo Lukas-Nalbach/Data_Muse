@@ -1,0 +1,17 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Virtual environment
+.venv
+/venv
+venv
+.env/
+
+# Data folder
+data/
+
+# OS or editor-specific files
+.DS_Store
+.vscode/
+
