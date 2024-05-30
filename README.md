@@ -64,5 +64,5 @@ This project is licensed under the MIT License.
 
 For any inquiries, please contact:
 
-Moritz Diekmann: [your.email@example.com] <br>
+Moritz Diekmann: moritzdiekmann@gmx.de <br>
 Lukas Nalbach: lukas.nalbach@posteo.de
