@@ -1,0 +1,41 @@
+/* styles.css */
+
+/* Change the background color of the entire app */
+body {
+    background-image: url('paper2.jpg');
+    background-size: cover;  /* Adjust to cover the entire page */
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    font-size: 20px;
+}
+
+
+
+/* Customize the font of the select dropdown menu */
+.dcc-control, .Select-control {
+    font-size: 18px !important;
+    background-color: #eae0c3 !important;
+    color: #333 !important;
+}
+
+/* Customize the font and background color of the dropdown menu */
+.Select-menu,
+.Select-menu-outer {
+    font-size: 18px !important;
+    background-color: #eae0c3 !important; /* Change to your desired background color */
+    color: #333 !important;
+}
+ 
+.app-container {
+    background-color: rgba(0, 0, 0, 10); /* Optional: semi-transparent background for the main content */
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.rc-slider-mark-text {
+    font-size: 20px !important; /* Adjust the font size as needed */
+    color: #333 !important; /* Change the color to black */
+}
+
+
