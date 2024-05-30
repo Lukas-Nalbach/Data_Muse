@@ -18,3 +18,5 @@ data/
 .DS_Store
 .vscode/
 
+# old things folder
+old_things/
