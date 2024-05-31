@@ -11,8 +11,8 @@ __pycache__/
 venv
 .env/
 
-# Data folder
-data/
+# SQL-scripts
+sql-scripts/
 
 # OS or editor-specific files
 .DS_Store
