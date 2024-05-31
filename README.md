@@ -50,7 +50,8 @@ This project represents a unique collaboration between data science and creative
 
 ### Construction of the Dataset:
 
-Use the SQL-scripts in the [corresponding folder](sql-scripts/)
+The datasets were combined using SQL.
+The final dataset can be found inside the data folder
 
 ### Project Team:
 - Moritz Diekmann
